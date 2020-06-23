@@ -1,0 +1,19 @@
+{
+  "name": "sass-intro",
+  "version": "1.0.0",
+  "description": "Sass intro",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node-sass -o css scss/main.scss -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pandyapurvi/Sass-intro.git"
+  },
+  "author": "Purvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pandyapurvi/Sass-intro/issues"
+  },
+  "homepage": "https://github.com/pandyapurvi/Sass-intro#readme"
+}
